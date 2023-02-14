@@ -11,6 +11,3 @@
 
     * `npm install`
     * `npm start`
-#� �w�a�r�b�l�e�r�
-�
-�
