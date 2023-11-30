@@ -1,13 +1,16 @@
-# Warbler
+Warbler
 
-## Getting started
+Backend
+JavaScript
+Express
+Express Middleware
+Hand-rolled JWT Auth
+Mongoose
 
-1.  In the `warbler-server` folder
-
-    * `npm install`
-    * `nodemon` (if installed) or `node index.js`
-
-2.  In the `warbler-client` folder
-
-    * `npm install`
-    * `npm start`
+Frontend
+JavaScript
+Create React App
+React Class Components
+Legacy Redux 
+Bootstrap
+LocalStorage
