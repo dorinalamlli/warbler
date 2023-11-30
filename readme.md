@@ -1,16 +1,5 @@
 Warbler
 
-Backend
-JavaScript
-Express
-Express Middleware
-Hand-rolled JWT Auth
-Mongoose
+Backend: JavaScript | Express | Express Middleware | Hand-rolled JWT Auth | Mongoose
 
-Frontend
-JavaScript
-Create React App
-React Class Components
-Legacy Redux 
-Bootstrap
-LocalStorage
+Frontend: JavaScript | Create React App | React Class Components | Legacy Redux | Bootstrap | LocalStorage
